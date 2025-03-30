@@ -1,4 +1,4 @@
-# IoT-Based Rat Repeller Prototype  
+# iot-rat-repeller
 
 This project presents an innovative solution for rodent deterrence by developing an **IoT-based rat repeller prototype**. The device is designed as a **proof of concept** for future advancements in rodent control technology.  
 
@@ -23,4 +23,7 @@ This system aims to **effectively deter rodents** while serving as a foundation 
 - **Automatic Rodent Detection**: Detects movement using the PIR sensor.  
 - **Ultrasonic Repelling**: Activates a buzzer to emit high-frequency sounds.  
 - **Live Camera Feed**: Streams real-time video via the ESP32-CAM module.  
-- **Nighttime Illumination**: Enables the flashlight only during dark hours.  
+- **Nighttime Illumination**: Enables the flashlight only during dark hours.
+
+## Results?
+Check this journal for final tests and results: https://pepadun.fmipa.unila.ac.id/index.php/jurnal/article/view/239
