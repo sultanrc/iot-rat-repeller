@@ -12,7 +12,7 @@ The system utilizes **ESP32-CAM, a PIR sensor, and a buzzer** to detect rodent a
 
 This system aims to **effectively deter rodents** while serving as a foundation for future enhancements in pest control technology.  
 
-## Tech Stack  
+## Tech Used  
 - **Hardware:** ESP32-CAM, PIR sensor, Buzzer  
 - **Camera:** OV2640 (ESP32-CAM)  
 - **Live Streaming:** Web-based access  
